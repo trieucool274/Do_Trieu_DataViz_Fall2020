@@ -12,4 +12,5 @@ mycolors = ["red", "blue" ]
 plt.pie(y, labels = mylabels, explode=myexplode, colors=mycolors , autopct='%1.1f%%', shadow = True)
 plt.legend(title = "Genders" )
 plt.title("Male and Female Medialists", pad=20, **hfont)
+
 plt.show()

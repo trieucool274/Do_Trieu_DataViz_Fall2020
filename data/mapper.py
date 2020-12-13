@@ -16,4 +16,5 @@ plt.ylabel("Medals earned each year")
 plt.xlabel("Medals Growth by Year")
 plt.title("Total Medals earned - 90 Years", pad=20, **hfont)
 
+
 plt.show()
