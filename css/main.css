@@ -1,0 +1,27 @@
+/*quick reset*/
+
+* { 
+	border: none;
+	padding: 0;
+	margin: 30;
+ }
+
+ body { font-size: 16px; font-family: 'Arial', 'helvetica', sans-serif; }
+
+ .hidden { display: none; }
+
+ .data-img { width: 20%; 
+ 	max-width: 100%;
+ 	margin-left: 300px; 
+  	justify-content: center;
+
+  }
+
+  body {
+  background-color: lightblue;
+}
+
+#logo { 
+margin-left: 250px  
+width: 30px;}
+
