@@ -10,4 +10,5 @@ plt.pie(y, labels = mylabels, startangle = 90, autopct='%1.1f%%',
         shadow=True, explode=myexplode )
 
 plt.title("Type of sports", pad=20, **hfont)
+
 plt.show()

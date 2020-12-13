@@ -13,6 +13,7 @@ ax1.pie(sizes, explode=explode, labels=labels, colors=mycolors, autopct='%1.1f%%
 ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.title("Type of Medals earned - 90 Years", pad=20, **hfont)
 
+
 plt.show()
 
 import matplotlib

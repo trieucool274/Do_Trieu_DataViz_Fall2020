@@ -28,4 +28,5 @@ plt.xticks(index + bar_width, ('Gold', 'Silver', 'Bronze'))
 plt.legend()
 
 plt.tight_layout()
+
 plt.show()
